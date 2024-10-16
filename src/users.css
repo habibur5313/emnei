@@ -1,0 +1,15 @@
+.box{
+                    margin: 20px;
+                    padding: 20px;
+                    border-radius: 20px;
+                    border: 2px solid tomato;
+                    background-color: blue; 
+}
+.box1{
+                    margin: 20px;
+                    padding: 20px;
+                    border-radius: 20px;
+                    border: 2px solid blue;
+                    background-color: tomato; 
+                    color: black;
+}
